@@ -12,11 +12,15 @@ Check back here during the event for updates!
 
 # Info
 
-  * [Event rationale, objectives, and useful info for participants](https://github.com/usfomicshub/USFOneHealthCodeathon2020)  
   * [Event schedule]()
+  * [Team-project repositories](https://github.com/USFOneHealthCodeathon2020)
+  
+### Pre-Event
+
+  * [Event rationale, objectives, and useful info for participants](https://github.com/usfomicshub/USFOneHealthCodeathon2020)  
   * [Information for Team Leads](https://github.com/USFOneHealthCodeathon2020/USFOneHealthCodeathon2020.github.io/blob/master/codeathon.teamleads.022020_JO.pdf)
   * [Code of Conduct](https://hackcodeofconduct.org/1362-one_health)
-  * [Team-project repositories](https://github.com/USFOneHealthCodeathon2020)
+  
 
 <br>
 
