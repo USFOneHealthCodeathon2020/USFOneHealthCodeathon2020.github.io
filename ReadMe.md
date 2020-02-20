@@ -1,6 +1,11 @@
+<p align="center">
 <h1 align="center">Welcome to our USF One Health Codeathon 2020: Host-microbiome interactions in global health landing-page!</h1>
+</p>
+                  
 <br>
 <br>
+
+
 ![Codeathon flyer](/img/event_flyer.png)
 
 
