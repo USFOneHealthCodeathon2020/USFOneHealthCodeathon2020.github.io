@@ -24,7 +24,7 @@ Check back here during the event for updates!
 
   * [USF Genomics Program](https://health.usf.edu/publichealth/ghidr/genomics)
   * [USF Omics Hub](https://usfomicshub.github.io/)
-  * [USF Institute for the Advanced Study of Culture and the Environment]
+  * [USF Institute for the Advanced Study of Culture and the Environment](https://www.usf.edu/arts-sciences/institutes/iasce/)
   * [USF Computational Science Club](https://computationalscienceclub.org/)
   * [USF Initiative on Microbiomes](https://health.usf.edu/medicine/microbiome)
   
