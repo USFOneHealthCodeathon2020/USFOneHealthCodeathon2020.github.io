@@ -1,7 +1,4 @@
-<p align="center">
-<h1 align="center">Welcome to our USF One Health Codeathon 2020: Host-microbiome interactions in global health landing-page!</h1>
-</p>
-                  
+                
 ![Codeathon flyer](/img/event_flyer.png)
 
 <br>
@@ -11,6 +8,7 @@
 
 Check back here during the event for updates!
 
+<br>
 
 # Info
 
@@ -20,6 +18,7 @@ Check back here during the event for updates!
   * [Code of Conduct](https://hackcodeofconduct.org/1362-one_health)
   * [Team-project repositories](https://github.com/USFOneHealthCodeathon2020)
 
+<br>
 
 # Sponsors, organizers and collaborators
 
