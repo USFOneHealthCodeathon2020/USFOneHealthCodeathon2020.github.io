@@ -12,11 +12,14 @@ Check back here during the event for updates!
   * [Event schedule]()
   * [Information for Team Leads]()
   * [Code of Conduct]()
-  * [Team-project repositories]()
+  * [Team-project repositories](https://github.com/USFOneHealthCodeathon2020)
 
 
 # Sponsors, organizers and collaborators
 
-  * [USF Genomics Program]()
-  * [USF Omics Hub]()
-  * [USF Microbiome Initiative]()
+  * [USF Genomics Program](https://health.usf.edu/publichealth/ghidr/genomics)
+  * [USF Omics Hub](https://usfomicshub.github.io/)
+  * [USF Institute for the Advanced Study of Culture and the Environment]
+  * [USF Computational Science Club](https://computationalscienceclub.org/)
+  * [USF Initiative on Microbiomes](https://health.usf.edu/medicine/microbiome)
+  
