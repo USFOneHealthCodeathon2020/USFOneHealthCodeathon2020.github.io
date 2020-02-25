@@ -1,4 +1,3 @@
-                
 ![Codeathon flyer](/img/event_flyer.png)
 
 <br>
@@ -7,12 +6,19 @@
 # News
 
 Check back here during the event for updates!
+  
+  **Feb 25 2020**
+  
+  * All team-leads have been granted administrator-access to their team repositories and should now be inviting their team-members to the repo using the github usernames supplied in the sign-up roster.
+  
+  * Make sure you have accepted Swamy's invitation to our OneHealth Microbiome Codeathon slack-channel. You'll find the most up-to-date general and team-communications there!
+
 
 <br>
 
 # Info
 
-  * [Event schedule]()
+  * [Event schedule](https://github.com/USFOneHealthCodeathon2020/USFOneHealthCodeathon2020.github.io/blob/master/Codeathon%202020%20Agenda.pdf)
   * [Team-project repositories](https://github.com/USFOneHealthCodeathon2020)
   
 ### Pre-Event
