@@ -1,3 +1,2 @@
 theme: jekyll-theme-hacker
 markdown: GFM
-{{ site.time | date: "%a %b %d, %Y, %R" }}
