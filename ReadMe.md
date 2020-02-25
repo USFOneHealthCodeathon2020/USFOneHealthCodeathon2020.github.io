@@ -9,7 +9,7 @@ Check back here during the event for updates!
   
  <h3>Feb 25 2020</h3>
   
-  * All team-leads have been granted administrator-access to their team repositories and should now be inviting their team-members to the repo using the github usernames supplied in the sign-up roster.
+  * All team-leads have been granted administrator-access to their [team repositories](https://github.com/USFOneHealthCodeathon2020) and should now be inviting their team-members to the repo using the github usernames supplied in the sign-up roster.
   
   * Make sure you have accepted Swamy's invitation to our OneHealth Microbiome Codeathon slack-channel. You'll find the most up-to-date general and team-communications there!
 
