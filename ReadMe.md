@@ -7,7 +7,7 @@
 
 Check back here during the event for updates!
   
-  **Feb 25 2020**
+ <h3>Feb 25 2020</h3>
   
   * All team-leads have been granted administrator-access to their team repositories and should now be inviting their team-members to the repo using the github usernames supplied in the sign-up roster.
   
