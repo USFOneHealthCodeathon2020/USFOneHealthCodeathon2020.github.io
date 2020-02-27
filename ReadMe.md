@@ -5,8 +5,14 @@
 
 # News
 
-Check back here during the event for updates!
-  
+ <h3>Feb 26 2020</h3>
+ 
+ * All six team-projects are off to a great start! **We start again tomorrow at 9 A.M.** 
+ 
+    * *Remember to be updating our shared manuscript-GoogleDoc as you go.*
+ 
+ * Dr. Ren Tao's [Geospatial Data-Science in microbiome-research presentation](https://github.com/USFOneHealthCodeathon2020/USFOneHealthCodeathon2020.github.io/blob/master/Tao_Genomics.pdf) is now available! Check it out for pointers to valuable, publicly-available data.
+ 
  <h3>Feb 25 2020</h3>
   
   * All team-leads have been granted administrator-access to their [team repositories](https://github.com/USFOneHealthCodeathon2020) and should now be inviting their team-members to the repo using the github usernames supplied in the sign-up roster.
