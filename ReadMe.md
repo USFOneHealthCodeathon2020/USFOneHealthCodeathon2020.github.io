@@ -5,6 +5,15 @@
 
 # News
 
+ <h3>Feb 28 2020</h3>
+ 
+  * A closing-ceremony announcement from Dr. Rays Jiang:
+  
+    *What a fabulous tournament — I am speechless :star-struck:. Congratulations Team ZERO and Team Animal again. ALL teams (in alphabetical order,  Team GEO, Team PublixPower, Team TRACK, Team YOLO) excelled in data science problem solving, cross-field communication, and top-notch team working. The judges are impressed by the scope and results coming out of this event. We will re-convene after work over drinks, to celebrate our camaraderie. Swamy will update you with the details in a link. Three cheers to our collective sweat, stress and joy!*
+ 
+ 
+  * Dr. Elizabeth Miller's Codeathon-opening [Anthropology in microbiome-research presentation](https://github.com/USFOneHealthCodeathon2020/USFOneHealthCodeathon2020.github.io/blob/master/Miller_codeathon_talk_sp2020.pdf) provides important context for the power and necessity of interdisciplinary approaches to answer the complex questions inherent to human microbiomes-research--check it out!
+
  <h3>Feb 26 2020</h3>
  
  * All six team-projects are off to a great start! **We start again tomorrow at 9 A.M.** 
